@@ -1,5 +1,8 @@
 # Delivery Tracker API
 
+[![Build](https://github.com/steffencrespo/delivery-tracker-api/actions/workflows/build.yml/badge.svg)](https://github.com/steffencrespo/delivery-tracker-api/actions/workflows/build.yml)
+![Kotlin](https://img.shields.io/badge/kotlin-1.9-blue?logo=kotlin)
+
 This project is an experiment with a REST API built using **Kotlin**, **Spring Boot**, in-memory **H2 database**, documented via **Swagger UI**, and tested with **JUnit + MockMvc**. It was used as a learning exercise and for integration with AI tools like Cursor and ChatGPT.
 
 ---
